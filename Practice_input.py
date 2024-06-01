@@ -21,6 +21,8 @@
 name = input("Ingresa tu nombre: ")
 print("Hola, " + name + ". ¡Un gusto conocerte!")
 
+print("Un texto echo desde GitHub")
+
 x = 11
 y = 4
 
